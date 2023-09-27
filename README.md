@@ -1,6 +1,6 @@
 ## DVA 
 
-An open-source implementation of the SIGGRAPH 2022 paper [Drivable Volumetric Avatars using Texel-Aligned Features](https://arxiv.org/pdf/TODO)
+An open-source implementation of the SIGGRAPH 2022 paper [Drivable Volumetric Avatars using Texel-Aligned Features](https://arxiv.org/abs/2207.09774)
 
 ### Data and Assets
 
